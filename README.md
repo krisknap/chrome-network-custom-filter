@@ -1,0 +1,1 @@
+This is an idea for a custom chrome developer tools add-in that will allow you to quickly filter network traffic for specific keywords associated with tags, pixels, etc. without it, you need to type them in every time.
